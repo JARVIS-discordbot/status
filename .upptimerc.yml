@@ -5,47 +5,34 @@ repo: status # The name of this repository
 sites:
   - name: Dashboard
     url: https://jarvisdiscordbot.net/
-
-
-
-   - name: BOT
-     url: http://88.198.208.93:49151/
-
-
+  - name: BOT
+    url: http://88.198.208.93:49151/
 
   # - name: maps.airplanes.live
   #   url: https://maps.airplanes.live
 
-
-
   # - name: api.airplanes.live
   #   url: https://api.airplanes.live/status
-
-
-
 
   # - name: feed.airplanes.live:30004
   #   url: feed.airplanes.live
   #   check: tcp-ping
   #   port: 30004
 
-
-    
   # - name: feed.airplanes.live:31090
   #   url: feed.airplanes.live
   #   check: tcp-ping
   #   port: 31090
+
 #status-website:
 #  cname: status.jarvisdiscordbot.net
 #  logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif?raw=true
 #  name: Upptime
 
-
 status-website:
   baseUrl: /status # where "repo" is your repository name
   name: Your Status Website
 
-  
   introTitle: "J.A.R.VI.S Status"
   introMessage: ""
   navbar:
