@@ -37,7 +37,7 @@ sites:
   #   port: 31090
 status-website:
   cname: status.jarvisdiscordbot.net
-  logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif
+  logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif?raw=true
   name: Upptime
   introTitle: "J.A.R.VI.S Status"
   introMessage: ""
