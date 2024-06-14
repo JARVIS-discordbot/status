@@ -8,8 +8,8 @@ sites:
 
 
 
-  # - name: globe.airplanes.live
-  #   url: https://globe.airplanes.live
+   - name: BOT
+     url: http://88.198.208.93:49151/
 
 
 
