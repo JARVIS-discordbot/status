@@ -6,7 +6,7 @@ sites:
   - name: Dashboard
     url: https://jarvisdiscordbot.net/
   - name: BOT
-    url: http://88.198.208.93:49151/
+    url: $BOTping
 
   # - name: maps.airplanes.live
   #   url: https://maps.airplanes.live
