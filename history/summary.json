@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/88.198.208.93.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "96.66%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "96.66%",
-    "uptimeYear": "96.66%",
+    "uptime": "97.01%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 227,
     "timeDay": 227,
     "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-06-15": 4,
       "2024-06-14": 37
     }
   }
