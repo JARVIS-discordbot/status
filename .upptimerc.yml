@@ -24,14 +24,14 @@ sites:
   #   check: tcp-ping
   #   port: 31090
 
-#status-website:
-#  cname: status.jarvisdiscordbot.net
-#  logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif?raw=true
-#  name: Upptime
-
 status-website:
-  baseUrl: /status # where "repo" is your repository name
-  name: Your Status Website
+  cname: status.jarvisdiscordbot.net
+  logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif?raw=true
+  name: Upptime
+
+#status-website:
+#  baseUrl: /status # where "repo" is your repository name
+#  name: Your Status Website
 
   introTitle: "J.A.R.VI.S Status"
   introMessage: ""
