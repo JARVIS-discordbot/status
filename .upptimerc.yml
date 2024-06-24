@@ -27,7 +27,7 @@ sites:
 status-website:
   cname: status.jarvisdiscordbot.net
   logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif?raw=true
-  name: Upptime
+  name: J.A.R.V.I.S Status
 
 #status-website:
 #  baseUrl: /status # where "repo" is your repository name
