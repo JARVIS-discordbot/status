@@ -4,18 +4,20 @@
     "url": "https://jarvisdiscordbot.net/",
     "icon": "https://icons.duckduckgo.com/ip3/jarvisdiscordbot.net.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 516,
-    "timeWeek": 549,
-    "timeMonth": 612,
-    "timeYear": 612,
-    "dailyMinutesDown": {}
+    "time": 611,
+    "timeDay": 551,
+    "timeWeek": 554,
+    "timeMonth": 611,
+    "timeYear": 611,
+    "dailyMinutesDown": {
+      "2024-07-07": 0
+    }
   },
   {
     "name": "BOT",
