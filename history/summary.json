@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jarvisdiscordbot.net.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.46%",
     "time": 585,
     "timeDay": 478,
     "timeWeek": 525,
-    "timeMonth": 554,
+    "timeMonth": 553,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2024-07-07": 426
@@ -24,7 +24,7 @@
     "url": "http://88.198.208.93:49151/",
     "icon": "https://icons.duckduckgo.com/ip3/88.198.208.93.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2024-08-07": 0,
       "2024-07-26": 19,
       "2024-06-25": 36
     }
