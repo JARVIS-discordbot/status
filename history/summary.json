@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jarvisdiscordbot.net.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 578,
     "timeDay": 561,
     "timeWeek": 540,
@@ -25,7 +25,7 @@
     "url": "http://88.198.208.93:49151/",
     "icon": "https://icons.duckduckgo.com/ip3/88.198.208.93.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 232,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2024-08-27": 0,
       "2024-07-26": 19,
       "2024-06-25": 36
     }
