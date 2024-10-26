@@ -28,7 +28,7 @@
     "url": "http://88.198.208.93:49151/",
     "icon": "https://icons.duckduckgo.com/ip3/88.198.208.93.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -40,6 +40,7 @@
     "timeMonth": 225,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2024-10-26": 0,
       "2024-10-20": 18,
       "2024-10-17": 8,
       "2024-09-12": 11,
