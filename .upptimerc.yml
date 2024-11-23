@@ -8,6 +8,11 @@ sites:
   - name: BOT
     url: http://88.198.208.93:49151/
 
+  - name: electronenclave.com (My electronics site)
+    url: https://electronenclave.com/
+
+
+
 
 
 status-website:
