@@ -35,3 +35,6 @@ status-website:
 
 assignees:
   - BenCos17 
+
+status-website:
+  robotsText: "User-agent: * \n Disallow: /"
