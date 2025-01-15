@@ -40,3 +40,8 @@ assignees:
 
 status-website:
   robotsText: "User-agent: * \n Disallow: /"
+
+
+
+  status-website:
+  customHeadHtml: "<script defer src="https://cloud.umami.is/script.js" data-website-id="c6193e39-d469-46cb-867e-f8ba9290605e"></script>"
