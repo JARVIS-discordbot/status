@@ -19,9 +19,7 @@ status-website:
   cname: status.jarvisdiscordbot.net
   logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif?raw=true
   name: J.A.R.V.I.S Status
-  scripts:
-    - src: "https://cloud.umami.is/script.js" data-website-id="c6193e39-d469-46cb-867e-f8ba9290605e"
-      async: true
+
 
 
   introTitle: "J.A.R.VI.S Status"
