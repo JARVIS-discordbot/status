@@ -19,6 +19,8 @@ status-website:
   cname: status.jarvisdiscordbot.net
   logoUrl: https://github.com/JARVIS-discordbot/status/blob/master/images/jarvis.gif?raw=true
   name: J.A.R.V.I.S Status
+  robotsText: "User-agent: * \n Disallow: /"
+
 
 
 
@@ -39,7 +41,6 @@ assignees:
   - BenCos17 
 
 status-website:
-  robotsText: "User-agent: * \n Disallow: /"
 
 
 
