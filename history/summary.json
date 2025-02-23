@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jarvisdiscordbot.net.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "98.57%",
     "time": 568,
     "timeDay": 559,
     "timeWeek": 518,
@@ -33,9 +33,9 @@
     "url": "$BOT_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-ip-address-hidden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,7 +44,9 @@
     "timeWeek": 204,
     "timeMonth": 204,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-23": 0
+    }
   },
   {
     "name": "electronenclave.com (My electronics site)",
