@@ -4,11 +4,14 @@ repo: status # The name of this repository
 
 sites:
   - name: Dashboard
-    url: https://jarvisdiscordbot.net/
+    url: https://dash.jarvisdiscordbot.net
   - name: Bot 
     url: $BOT_IP
+  - name: BOT landing page
+    url: https://jarvisdiscordbot.net
+    
   - name: electronenclave.com (My electronics site)
-    url: https://electronenclave.com/
+    url: https://electronenclave.com
 
 
 
