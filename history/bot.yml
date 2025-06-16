@@ -1,7 +1,7 @@
 url: $BOT_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-15T23:20:15.317Z
+status: up
+code: 200
+responseTime: 194
+lastUpdated: 2025-06-16T12:40:56.470Z
 startTime: 2025-02-23T13:17:07.350Z
 generator: Upptime <https://github.com/upptime/upptime>
