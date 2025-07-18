@@ -13,8 +13,11 @@ sites:
   - name: electronenclave.com (My electronics site)
     url: https://electronenclave.com
 
-
-
+  - name: E Number lookup 
+    url: https://enumbers.jarvisdiscordbot.net/
+    
+  - name: E Number lookup api
+    url: https://enumbers.jarvisdiscordbot.net/api/enumbers
 
 
 status-website:
