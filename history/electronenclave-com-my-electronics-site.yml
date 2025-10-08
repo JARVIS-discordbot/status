@@ -1,7 +1,7 @@
 url: https://electronenclave.com
-status: up
-code: 200
-responseTime: 668
-lastUpdated: 2025-10-08T23:19:05.166Z
+status: down
+code: 502
+responseTime: 5157
+lastUpdated: 2025-10-08T23:40:32.927Z
 startTime: 2024-11-23T21:04:31.253Z
 generator: Upptime <https://github.com/upptime/upptime>
