@@ -6,7 +6,7 @@ sites:
   - name: Dashboard
     url: https://dash.jarvisdiscordbot.net
   - name: Bot 
-    url: $BOT_IP
+    url: https://bot.jarvisdiscordbot.net/
   - name: BOT landing page
     url: https://jarvisdiscordbot.net
     
