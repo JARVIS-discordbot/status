@@ -136,16 +136,16 @@
     "url": "https://electronenclave.com",
     "icon": "https://icons.duckduckgo.com/ip3/electronenclave.com.ico",
     "slug": "electronenclave-com-my-electronics-site",
-    "status": "down",
+    "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "90.55%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "94.62%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "90.17%",
+    "uptimeMonth": "96.90%",
+    "uptimeYear": "94.61%",
     "time": 829,
-    "timeDay": 407,
-    "timeWeek": 1212,
-    "timeMonth": 740,
+    "timeDay": 459,
+    "timeWeek": 1162,
+    "timeMonth": 736,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2025-09-19": 1088,
@@ -216,7 +216,7 @@
       "2026-08-08": 369,
       "2026-08-19": 710,
       "2026-08-18": 243,
-      "2026-08-22": 0
+      "2026-08-22": 38
     }
   },
   {
