@@ -39,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.jarvisdiscordbot.net.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "93.71%",
+    "uptime": "93.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -110,16 +110,16 @@
     "url": "https://electronenclave.com",
     "icon": "https://icons.duckduckgo.com/ip3/electronenclave.com.ico",
     "slug": "electronenclave-com-my-electronics-site",
-    "status": "down",
-    "uptime": "97.18%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "92.28%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "94.75%",
+    "status": "up",
+    "uptime": "97.11%",
+    "uptimeDay": "38.91%",
+    "uptimeWeek": "89.20%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "94.62%",
     "time": 746,
-    "timeDay": 49,
-    "timeWeek": 652,
-    "timeMonth": 569,
+    "timeDay": 258,
+    "timeWeek": 483,
+    "timeMonth": 572,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-11-22": 788,
@@ -185,7 +185,7 @@
       "2026-11-04": 81,
       "2026-11-14": 400,
       "2026-11-19": 209,
-      "2026-11-21": 170
+      "2026-11-21": 880
     }
   },
   {
